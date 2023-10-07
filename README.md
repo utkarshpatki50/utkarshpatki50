@@ -2,8 +2,8 @@
 
 # Hi, I'm [Utkarsh]!
 
-Software Engineer | Problem Solver
-    I'm currently exploring Full Stack Java Develeopement.
+Software Engineer | Problem Solver  
+   || I'm currently exploring Full Stack Java Develeopement.
 📫 How to reach me: (utkarshpatki50@gmail.com)
 
 Connect with me:
